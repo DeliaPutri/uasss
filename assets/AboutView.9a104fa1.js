@@ -1,0 +1,1 @@
+import{o as t,c as n,a as e,F as i,b as a,N as s,d as l}from"./index.45f2424f.js";const o=a("div",{class:"about"},[a("h1",null,"Hello everyone"),a("h2",null,"this is Liri kami akan membantu anda dalam menjalankan pahala jariyah anda")],-1),u={__name:"AboutView",setup(r){return(_,m)=>(t(),n(i,null,[e(s),o,e(l)],64))}};export{u as default};

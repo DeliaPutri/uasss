@@ -1,0 +1,1 @@
+import{o,c as t,a as e,F as s,b as a,N as r,d as c}from"./index.45f2424f.js";const n=a("div",{class:"about"},[a("h1",null,"404 page not found")],-1),p={__name:"ErrorView",setup(_){return(l,u)=>(o(),t(s,null,[e(r),n,e(c)],64))}};export{p as default};
